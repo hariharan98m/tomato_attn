@@ -4,6 +4,8 @@
 
 **Contributors:** Hariharan, M., Karthik, R., Anand, S., Mathikshara, P., Johnson, A., & Menaka, R.
 
+<img src="sample_image.png" />
+
 ### Highlights
 - Novel Attention formulation
 - Highest benchmark results on the Plant Village Dataset
